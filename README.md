@@ -117,3 +117,30 @@ E E E E E
 1
 ```
 
+## [Pattern - 14](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_14.cpp)
+```
+0
+1 1
+2 3 5
+8 13 21 34
+55 89 144 233 377
+```
+
+## [Pattern - 15](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_15.cpp)
+```
+     *
+    ***
+   *****
+  *******
+ *********
+```
+
+## [Pattern - 16](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_16.cpp)
+```
+     1
+    123
+   12345
+  1234567
+ 123456789
+```
+
