@@ -180,3 +180,12 @@ E E E E E
  *       *
 ```
 
+## [Pattern - 21](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_21.cpp)
+```
+****
+|   |
+****
+|   |
+****
+```
+
