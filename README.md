@@ -144,3 +144,39 @@ E E E E E
  123456789
 ```
 
+## [Pattern - 17](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_17.cpp)
+```
+*   *
+ * *
+  *
+ * *
+*   *
+```
+
+## [Pattern - 18](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_18.cpp)
+```
+     *
+    * *
+   *   *
+  *     *
+ *       *
+```
+
+## [Pattern - 19](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_19.cpp)
+```
+     *
+    * *
+   *   *
+  *     *
+ *********
+```
+
+## [Pattern - 20](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_20.cpp)
+```
+     *
+    * *
+   *****
+  *     *
+ *       *
+```
+
