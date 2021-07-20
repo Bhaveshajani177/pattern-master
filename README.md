@@ -189,3 +189,12 @@ E E E E E
 ****
 ```
 
+## [Pattern - 22](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_22.cpp)
+```
+*****
+*
+*
+*
+*****
+```
+
