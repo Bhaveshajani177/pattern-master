@@ -198,3 +198,39 @@ E E E E E
 *****
 ```
 
+## [Pattern - 23](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_23.cpp)
+```
+****
+*   *
+*   *
+*   *
+****
+```
+
+## [Pattern - 24](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_24.cpp)
+```
+*****
+|
+*****
+|
+*****
+```
+
+## [Pattern - 25](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_25.cpp)
+```
+|****
+|
+|****
+|
+|
+```
+
+## [Pattern - 26](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_26.cpp)
+```
+*****
+|
+|  --
+|   |
+*****
+```
+
