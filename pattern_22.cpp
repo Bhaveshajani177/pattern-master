@@ -10,10 +10,8 @@
 
 #include <iostream>
 using namespace std;
-
 int main()
 {
-
     int n;
     cout << "Enter number = ";
     cin >> n;
@@ -23,18 +21,13 @@ int main()
             if(i==1 || i==n){
                 cout <<"*";
             }
-            else{
-                for(int k=1; k<2; k++){
-                    if(j==1){
-                        cout<<"*";
-                    }else{
-                        cout<<" ";
-                    }
-                }
+            else if(j==1){
+                cout <<"*";
+            }else{
+                cout <<" ";
             }
         }
         cout<<"\n";
     }
-
     return 0;
 }
