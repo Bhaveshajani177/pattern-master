@@ -281,3 +281,30 @@ E E E E E
 *****
 ```
 
+## [Pattern - 32](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_32.cpp)
+```
+*   *
+** **
+* * *
+*   *
+*   *
+```
+
+## [Pattern - 33](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_33.cpp)
+```
+*   *
+**  *
+* * *
+*  **
+*   *
+```
+
+## [Pattern - 34](https://github.com/Bhaveshajani177/pattern-master/blob/master/pattern_34.cpp)
+```
+ ***
+*   *
+*   *
+*   *
+ ***
+```
+
